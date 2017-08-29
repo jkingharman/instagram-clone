@@ -5,7 +5,7 @@ A rails-based rebuild of Instagram.
 
 As an unregistered user you can:
 
-* Search for and view other users' photos.
+* Search for and view other users' photos
 
 As a registered user you can:
 
