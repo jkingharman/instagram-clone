@@ -1,8 +1,18 @@
 
 ## Instagram Mock ##
 
-A rails-based rebuild of Instagram. This web app has the following functionality.
-Unregistered users can search for and view users' photos. Registered users can sign-in and -out, add photos and comments (edit and delete these resources, also), and filter photos by tag.
+A rails-based rebuild of Instagram.
+
+As an unregistered user you can:
+
+* Search for and view other users' photos.
+
+As a registered user you can:
+
+* Sign-in and -out
+* Add photos and comments
+* Edit and delete photos and comments
+* Filter photos by tag
 
 ## Run ##
 
@@ -28,4 +38,5 @@ $ rspec
 * AWS so that photos are stored on the cloud.
 * Devise so that users can sign-in and out.
 
-## Example Screenshot ##
+## Example Image ##
+![alt text](https://user-images.githubusercontent.com/24657744/29845042-4b15e85a-8d09-11e7-8115-9083ad0fb313.png)
